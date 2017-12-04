@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802778546206",
+    "project_id": "loging-53ca6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802778546206:android:387dab74e745ec6c",
+        "android_client_info": {
+          "package_name": "com.example.alromero.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802778546206-9l2a7v1p40516on9pelqcucqbeappka7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "802778546206-cosc97sfntsh34d8nc0gjfpsh5i2bnt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alromero.googlelogin",
+            "certificate_hash": "7842823aa6ffc824fddb24a09175459240135578"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--9LKct4HGz8P1d4rLZfFcwDsUbBPYhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
