@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoogleLogin</string>
+    <string name="Log_out">Log Out</string>
+    <string name="revoke">revoke</string>
 </resources>
